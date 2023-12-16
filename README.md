@@ -2,6 +2,8 @@
 
 Stuff that I found useful when trying to get the most out of my PC
 
+I can pull 300 FPS on a 2060 on Fortnite with these settings
+
 # NVIDA Control Panel Settings:
 
 3D Settings:
@@ -21,7 +23,7 @@ Texture Filtering - Negative LOD bias: `Clamp`
 Texture Filtering - Anisotropic Sample Optimization: `Off`
 
 ```bash
-Misc
+Misc:
 ```
 Shader Cache Size: `10 GB`
 
