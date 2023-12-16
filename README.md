@@ -12,6 +12,8 @@ Adjust Image Settings With Preview:
   
 **Use The Advanced 3D Image Settings**
 
+### Actual Settings:
+
 ```bash
 Texture Filtering:
 ```
