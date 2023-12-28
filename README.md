@@ -1,8 +1,4 @@
-# [WINDOWS 10/11] PC-Gaming-Optimizations
-
-Stuff that I found useful when trying to get the most out of my PC
-
-I can pull 300 FPS on a 2060 on Fortnite with these settings
+# [WINDOWS 10/11] NVIDIA GPU Settings (For Performance)
 
 # NVIDA Control Panel Settings:
 
